@@ -1,0 +1,13 @@
+lines (11 sloc)  218 Bytes
+body {
+    color : #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    position: relative;
+    height:100%;
+}
+.container {
+   max-width: 1000px;
+   margin: 30px auto;
+   height: 250%;
+}
